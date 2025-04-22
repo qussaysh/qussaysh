@@ -26,15 +26,15 @@ I'm a <strong>Software Engineering student</strong> with a passion for building 
 
 ### 📫 Connect with Me
 
-<p>
-<a href="[www.linkedin.com/in/qussay-shaqura-bb54b9232](https://www.linkedin.com/in/qussay-shaqura-bb54b9232?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)"><img
-    src="https://img.shields.io/badge/-Linkedin-0072b1?style=flat&logo=linkedin&logoColor=white" alt="Linkedin"></a>
-<a href="https://github.com/qussaysh"><img
-    src="https://img.shields.io/badge/-GitHub-000?style=flat&logo=github&logoColor=white" alt="GitHub"></a>
-<a href="https://x.com/qussay_sh?s=21"><img
-   src="https://img.shields.io/badge/-X-black?style=flat&logo=twitter&logoColor=white" alt="Twitter/X"></a>
-</p>
-</p>
+### 📬 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-Linkedin-0072b1?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/qussay-shaqura-bb54b9232)
+[![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat&logo=github&logoColor=white)](https://github.com/qussaysh)
+[![X](https://img.shields.io/badge/-X-black?style=flat&logo=twitter&logoColor=white)](https://x.com/qussay_sh?s=21)
+
+
+
+
 
 ---
 
